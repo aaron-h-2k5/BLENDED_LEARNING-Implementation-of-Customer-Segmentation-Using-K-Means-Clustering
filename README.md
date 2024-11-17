@@ -1,6 +1,6 @@
-# BLENDED LEARNING
 # Implementation of Customer Segmentation Using K-Means Clustering
-
+### Developed by: Aaron H
+### RegisterNumber:  212223040001
 ## AIM:
 To implement customer segmentation using K-Means clustering on the Mall Customers dataset to group customers based on purchasing habits.
 
@@ -32,11 +32,7 @@ To implement customer segmentation using K-Means clustering on the Mall Customer
    
 ## Program:
 ```
-/*
-Program to implement customer segmentation using K-Means clustering on the Mall Customers dataset.
-Developed by: Aaron H
-RegisterNumber:  212223040001
-*/
+# Program to implement customer segmentation using K-Means clustering on the Mall Customers dataset.
 
 
 # Import necessary libraries
